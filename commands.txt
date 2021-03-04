@@ -5,3 +5,6 @@
  git config --global user.name "User name of GIT HUB"
  git config --global user.email "email id"
  git commit : It is used to record the changes in the repository. It is the next command after the git add.
+ git commit -amend : The amend option lets us to edit the last commit. If accidentally, we have committed a wrong commit message, then this feature is a savage option for us.
+ git status
+ git log
