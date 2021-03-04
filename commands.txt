@@ -1,7 +1,7 @@
- git init- one time command for initialization.
- touch filename- create empty file.
+ git init : one time command for initialization.
+ touch filename : create empty file.
  git add filename
  git ad .  : add all the created files
  git config --global user.name "User name of GIT HUB"
  git config --global user.email "email id"
- git commit
+ git commit : It is used to record the changes in the repository. It is the next command after the git add.
