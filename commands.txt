@@ -8,3 +8,4 @@
  git commit -amend : The amend option lets us to edit the last commit. If accidentally, we have committed a wrong commit message, then this feature is a savage option for us.
  git status
  git log
+ git remote add origin link of repository on github
